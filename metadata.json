@@ -1,0 +1,6 @@
+{
+  "name": "Troca de Serviços - Plataforma de Troca de Serviços",
+  "description": "Uma plataforma para usuários se cadastrarem e trocarem serviços entre si, fomentando uma comunidade de compartilhamento de habilidades e benefício mútuo.",
+  "requestFramePermissions": ["microphone"],
+  "prompt": ""
+}
